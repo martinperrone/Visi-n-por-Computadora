@@ -1,1 +1,1 @@
-# Visi-n-por-Computadora
+# Visión por Computadora
